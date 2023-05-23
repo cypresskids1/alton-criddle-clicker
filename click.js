@@ -23,7 +23,7 @@ let prices = {
 let currentSnack = 0;
 let currentDecoration = 0;
 let clickAmount = 1;
-let coins = 0;
+let coins = 1;
 
 presents.addEventListener("click",()=>{
     if(playing===false){
